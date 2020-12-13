@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O8p5TCXU8KFh16dknRDQztHq/ulhrR7R1vDMcXCJNAMDnjZkGf3sXwm9Yp0egJBcf+a1zY7HJAetJ16xnBm7wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tyenuc-PC\\source\\repos\\TestRepo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tyenuc-PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
